@@ -1,0 +1,6 @@
+{
+    "username": "xxx",
+    "password": "xxx",
+    "language": ["cpp","java","c","csharp","javascript","python","python3","ruby","swift","golang","scala","kotlin"],
+    "outputDir": "."
+}
